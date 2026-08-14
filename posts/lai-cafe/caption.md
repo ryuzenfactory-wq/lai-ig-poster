@@ -1,10 +1,10 @@
-Ordering at a café in Japan is basically three little moves ⚡
+Ordering coffee in Japan, minus the panic ☕
 
-Point at what you want, say if you want it iced, say your size. That's the whole thing, and suddenly you're the person who orders in Japanese like it's nothing.
+From "I'd like to order" to hot vs iced, size, and to-go, these 5 phrases get you through any Tokyo cafe smoothly.
 
-Every line in Laifu has romaji and audio, so it actually sticks.
+They'll ask ホットですか、アイスですか？ (hotto desu ka, aisu desu ka? / hot or iced?), and now you'll know exactly what to say.
 
-📲 Laifu's on the App Store, link in my bio.
-Japanese for daily (laifu) life.
+Save this for your next cafe run, and follow me for more.
+📲 Full audio on every phrase in the Laifu app (link in bio).
 
-#日本語 #learnjapanese #japanesecafe #japanesephrases #japanlife #studyjapanese #nihongo #tokyo #japantravel #japaneselanguage
+#learnjapanese #japanese #japanesephrases #nihongo #japancafe #tokyocafe #studyjapanese #japaneselanguage #coffee #japantravel

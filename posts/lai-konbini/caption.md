@@ -1,10 +1,10 @@
-The konbini at 1am hits different ⚡
+The konbini (convenience store) is where every trip to Japan actually happens 🏪
 
-You grab your karaage-kun, an onigiri, a drink, and then the register happens fast. These are the three lines that get you through it without freezing: heat it up, do I need a bag, can I get a spoon. That's the whole dance.
+Here's what the cashier asks you at checkout, and exactly what to say back. Heat it up? Need a bag? Chopsticks? You've got it.
 
-Every line in Laifu comes with romaji and audio, so the register never catches you off guard again.
+Master these 5 and you'll check out like you live here.
 
-📲 Laifu's on the App Store, link in my bio.
-Japanese for daily (laifu) life.
+Save it, then follow me for more real Japanese you'll actually use.
+📲 Every phrase has full audio in the Laifu app (link in bio).
 
-#日本語 #learnjapanese #konbini #japanesephrases #japanlife #studyjapanese #nihongo #tokyo #japantravel #japaneselanguage
+#learnjapanese #japanese #japanesephrases #nihongo #konbini #japantravel #studyjapanese #japaneselanguage #7eleven #japanlife

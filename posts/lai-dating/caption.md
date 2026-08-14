@@ -1,10 +1,10 @@
-Real talk: saying you like someone in Japanese is softer than the textbook makes it ⚡
+So you like someone in Japan 👀 here are 5 phrases to actually say it.
 
-You don't need a speech. You might be my type. I wanna see you. I'll text you. Small lines, big feelings, and that's honestly how it goes here.
+From a soft "you've got a great smile" all the way to 好きかも (suki kamo / I think I like you), these move at the right pace. That かも keeps it cute instead of heavy, trust me.
 
-Every line in Laifu comes with romaji and audio, so you say it right when it actually counts.
+Which one could you say out loud? 👇
 
-📲 Laifu's on the App Store, link in my bio.
-Japanese for daily (laifu) life.
+Save it for courage later, and follow me for daily Japanese.
+📲 Full audio on every phrase in the Laifu app (link in bio).
 
-#日本語 #learnjapanese #datinginjapan #japanesephrases #japanlife #studyjapanese #nihongo #tokyo #japantravel #japaneselanguage
+#learnjapanese #japanese #japanesephrases #nihongo #datinginjapan #japaneselove #studyjapanese #japaneselanguage #japantravel #japanlife

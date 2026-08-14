@@ -1,10 +1,10 @@
-Real talk: the izakaya is where your Japanese actually gets real ⚡
+Your first izakaya night in Japan, handled 🍶
 
-Not textbook lines. It's the stuff that actually gets said. Asking for water, telling them this isn't what you ordered, catching what they say back to you. Swipe for the three I reach for every time.
+Kanpai (乾杯 / cheers), ordering another round of karaage, offering to pour someone's drink (that's the etiquette here, you pour for others), and the warm "let's drink again" at the end.
 
-This is Laifu in one little deck: real situations, every line with romaji and audio, so you're never guessing what comes next.
+5 phrases that make you feel like a regular.
 
-📲 Laifu's on the App Store, link in my bio.
-Japanese for daily (laifu) life.
+Save + follow me for more real Japanese.
+📲 Full audio on every phrase in the Laifu app (link in bio).
 
-#日本語 #learnjapanese #japanesephrases #izakaya #tokyo #japanlife #studyjapanese #nihongo #japantravel #japaneselanguage
+#learnjapanese #japanese #japanesephrases #nihongo #izakaya #japannightlife #studyjapanese #japaneselanguage #tokyonights #japantravel

@@ -1,10 +1,9 @@
-Getting lost in a Japanese station is basically a rite of passage ⚡
+Lost in a Japanese station? These 5 phrases get you unstuck 🚶‍♀️
 
-The exits multiply, the signs blur, and you just need three questions: which line is this, what's the next stop, and the honest one, I'm lost. Say them and someone will always point you the right way.
+Which line, where to transfer, where to top up, next stop, last train. The exact questions to ask a local when the signs stop making sense.
 
-Every line in Laifu comes with romaji and audio, so being lost stays temporary.
+Save it so future-you isn't sweating on a platform.
+Follow me for daily real Japanese.
+📲 Full audio on every phrase in the Laifu app (link in bio).
 
-📲 Laifu's on the App Store, link in my bio.
-Japanese for daily (laifu) life.
-
-#日本語 #learnjapanese #japantrains #japanesephrases #japanlife #studyjapanese #nihongo #tokyo #japantravel #japaneselanguage
+#learnjapanese #japanese #japanesephrases #nihongo #japantravel #tokyo #studyjapanese #japaneselanguage #traveltips #japantrip

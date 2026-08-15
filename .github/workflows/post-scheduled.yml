@@ -1,10 +1,11 @@
 name: Post Lai carousel to Instagram
 
-# 毎日 21:00 JST (=12:00 UTC)。各 run が FIFO でキュー最上段の未投稿を1本消化。
-# 実写ライ(@lai_japanese)は初速=毎日1本（strategy.md / playbook準拠）。
+# 2日に1回 21:00 JST (=12:00 UTC)。各 run が FIFO でキュー最上段の未投稿を1本消化。
+# 実写ライ(@lai_japanese)は隔日1本（2026-08-16 Ryusei指示で毎日→隔日に変更）。
+# */2 は月内の奇数日(1,3,5,…,31)に発火＝概ね2日おき（月末31→翌1は連続になる稀な例外あり）。
 on:
   schedule:
-    - cron: "0 12 * * *"   # daily, 21:00 JST
+    - cron: "0 12 */2 * *"   # every 2 days, 21:00 JST
   workflow_dispatch:
     inputs:
       dry_run:
